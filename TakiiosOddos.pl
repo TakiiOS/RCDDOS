@@ -27,7 +27,7 @@ my ($ip) = @ARGV;
 
 if ($help || !$ip) {
   print <<'EOL';
- The usage of command is perl cqHack.pl a.b.c.d
+ The usage of command is perl by Samy Opti by Taki cqHack Number one
 EOL
   exit(1);
 }
